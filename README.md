@@ -15,4 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center"><img src="ttps://metrics.lecoq.io/wangyinyuan?template=classic&isocalendar=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FShanghai"></div>
+一名接触前端一年多的新人，喜欢做一些有意思的视觉效果，因为这很酷😎
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=一点点好奇心_&height=100&width=500&size=25&font=Zhi+Mang+Xing&color=D6A2E8&center=true&vCenter=true)](https://git.io/typing-svg)
+  
+</div>
+
+### My Github Status
+
+[![wangyinyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangyinyuan&show_icons=true&theme=ocean_dark)](https://github.com/wangyinyuan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangyinyuan&layout=compact)](https://github.com/wangyinyuan/github-readme-stats)
+
