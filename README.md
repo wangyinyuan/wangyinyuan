@@ -36,3 +36,7 @@ A newbie who's been dabbling in front-end for just over a year, I dig creating f
 [![wangyinyuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangyinyuan&show_icons=true&theme=ocean_dark)](https://github.com/wangyinyuan/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangyinyuan&layout=compact)](https://github.com/wangyinyuan/github-readme-stats)
 
+### 👓 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
