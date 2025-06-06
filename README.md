@@ -41,11 +41,11 @@ A newbie who's been dabbling in front-end for just over a year, I dig creating f
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   12 hrs 11 mins  ████████████████████▓░░░░   82.31 %
-Less         1 hr 25 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 %
-JSON         1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
-Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+TypeScript   8 hrs 19 mins   ████████████████▓░░░░░░░░   66.74 %
+Less         1 hr 26 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
+JSON         1 hr 12 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
+Markdown     1 hr            ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
+Bash         26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
 ```
 
 <!--END_SECTION:waka-->
