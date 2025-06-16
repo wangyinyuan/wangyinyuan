@@ -42,7 +42,7 @@ A newbie who's been dabbling in front-end for just over a year, I dig creating f
 
 ```txt
 TypeScript   10 hrs 25 mins  ██████████████████▓░░░░░░   74.57 %
-Less         2 hrs 48 mins   █████░░░░░░░░░░░░░░░░░░░░   20.05 %
+Less         2 hrs 48 mins   █████░░░░░░░░░░░░░░░░░░░░   20.06 %
 Markdown     32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
 HTML         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 EJS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
