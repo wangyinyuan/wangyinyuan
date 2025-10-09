@@ -41,9 +41,8 @@ A newbie who's been dabbling in front-end for just over a year, I dig creating f
 <!--START_SECTION:waka-->
 
 ```txt
-Go           12 mins         █████████████████▒░░░░░░░   69.38 %
-Bash         3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.38 %
-TypeScript   2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.24 %
+TypeScript   5 mins          ██████████████░░░░░░░░░░░   55.67 %
+Go           4 mins          ███████████░░░░░░░░░░░░░░   44.33 %
 ```
 
 <!--END_SECTION:waka-->
