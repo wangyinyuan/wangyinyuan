@@ -41,11 +41,9 @@ A newbie who's been dabbling in front-end for just over a year, I dig creating f
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript           58 mins         ███████████████▓░░░░░░░░░   63.12 %
-Text                 25 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.14 %
-JSON                 6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
-Python               1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-Markdown             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+Text              25 mins         ███████████████████████▒░   93.29 %
+Python            1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
+Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
