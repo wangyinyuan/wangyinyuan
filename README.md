@@ -41,8 +41,7 @@ A newbie who's been dabbling in front-end for just over a year, I dig creating f
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 min           █████████████▓░░░░░░░░░░░   54.59 %
-Markdown     0 secs          ███████████▒░░░░░░░░░░░░░   45.41 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
